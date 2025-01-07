@@ -48,7 +48,7 @@ To use this stopwatch on your local machine, follow these steps:
 
 ## Demo
 
-You can view the live demo of the stopwatch [here](https://your-demo-link.com).
+You can view the live demo of the stopwatch [here](https://rafiframadhana.github.io/Stopwatch/).
 
 ## License
 
