@@ -23,12 +23,12 @@ To use this stopwatch on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rafiframadhana/stopwatch.git
+   git clone https://github.com/rafiframdhana/Stopwatch.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd stopwatch
+   cd Stopwatch
    ```
 
 3. Open the `index.html` file in your web browser.
@@ -53,5 +53,3 @@ You can view the live demo of the stopwatch [here](https://rafiframadhana.github
 ## License
 
 This project is open-source and available under the MIT License. Feel free to modify and distribute it!
-
----
